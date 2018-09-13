@@ -1,5 +1,7 @@
 # Стиль для pitercss_class
 
+[Шрифт Gotham Pro](https://github.com/Seafnox/Gothampro).
+
 ## Цвета
 
 - Фиолетовый: `#55359e`
@@ -21,25 +23,26 @@
 
 <img src="pages/vk-top.png" alt="Верхний баннер для Вконтакте.">
 
-Верхний баннер для Вконтакте: [vk-top.png](pages/vk-top.png)
+Верхний баннер для Вконтакте: [PNG](pages/vk-top.png) или [PSD](pages/vk-top.psd).
 
 <img src="pages/vk-right.png" width="256" alt="Правый баннер для Вконтакте.">
 
-Правый баннер для Вконтакте: [vk-right.png](pages/vk-right.png)
+Правый баннер для Вконтакте: [PNG](pages/vk-right.png) или [PSD](pages/vk-right.psd).
 
 <img src="pages/facebook.png" alt="Баннер для Фейсбука.">
 
-Баннер для Фейсбука: [facebook.png](pages/facebook.png)
+Баннер для Фейсбука: [PNG](pages/facebook.png) или [PSD](pages/facebook.psd).
 
 ## События
 
-- Анонс класса в соцсетях: [social.psd](events/social.psd)
-- Фоновая картинка для десктопа: [desktop.psd](events/desktop.psd)
-- Шаблон для фотографии: [photo.psd](events/photo.psd)
+- Анонс класса в соцсетях: [PSD](events/social.psd).
+- Фоновая картинка для десктопа: [PSD](events/desktop.psd).
+- Шаблон для фотографии: [PSD](events/photo.psd).
 
 ## Стрелки
 
-- Исходник: [arrows.ai](arrows/arrows.ai) (CMYK)
-- Печать: [arrows.pdf](arrows/arrows.pdf) (CMYK)
+<img src="arrows/left.png" width="256" alt="Стрелка влево для указателей.">
+<img src="arrows/right.png" width="256" alt="Стрелка вправо для указателей.">
 
-[Шрифт Gotham Pro](https://github.com/Seafnox/Gothampro).
+Стрелка для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK).
+
