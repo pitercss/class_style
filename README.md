@@ -35,9 +35,9 @@
 
 ## События
 
-- Анонс класса в соцсетях: [PSD](events/social.psd)
-- Фоновая картинка для десктопа: [PSD](events/desktop.psd)
-- Шаблон для фотографии: [PSD](events/photo.psd)
+- [Анонс класса в соцсетях](events/social.psd)
+- [Фоновая картинка для десктопа](events/desktop.psd)
+- [Шаблон для фотографии](events/photo.psd)
 
 ## Стрелки
 
