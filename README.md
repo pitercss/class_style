@@ -17,35 +17,35 @@
 
 Закрывающий: [SVG](logo/close.svg) или [PNG](logo/close.png) (1024 × 1024)
 
-[Исходник](logo/logo.ai) (RGB) и [наклейки](logo/logo.ai) (CMYK) в AI.
+[Исходник](logo/logo.ai) (RGB) и [наклейки](logo/logo.ai) (CMYK) в AI
 
 ## Страницы
 
 <img src="pages/vk-top.png" alt="Верхний баннер для Вконтакте.">
 
-Верхний баннер для Вконтакте: [PNG](pages/vk-top.png) или [PSD](pages/vk-top.psd).
+Верхний баннер для Вконтакте: [PNG](pages/vk-top.png) или [PSD](pages/vk-top.psd)
 
 <img src="pages/vk-right.png" width="256" alt="Правый баннер для Вконтакте.">
 
-Правый баннер для Вконтакте: [PNG](pages/vk-right.png) или [PSD](pages/vk-right.psd).
+Правый баннер для Вконтакте: [PNG](pages/vk-right.png) или [PSD](pages/vk-right.psd)
 
 <img src="pages/facebook.png" alt="Баннер для Фейсбука.">
 
-Баннер для Фейсбука: [PNG](pages/facebook.png) или [PSD](pages/facebook.psd).
+Баннер для Фейсбука: [PNG](pages/facebook.png) или [PSD](pages/facebook.psd)
 
 ## События
 
-- Анонс класса в соцсетях: [PSD](events/social.psd).
-- Фоновая картинка для десктопа: [PSD](events/desktop.psd).
-- Шаблон для фотографии: [PSD](events/photo.psd).
+- Анонс класса в соцсетях: [PSD](events/social.psd)
+- Фоновая картинка для десктопа: [PSD](events/desktop.psd)
+- Шаблон для фотографии: [PSD](events/photo.psd)
 
 ## Стрелки
 
 <img src="arrows/left.png" width="256" alt="Стрелка влево для указателей.">
 <img src="arrows/right.png" width="256" alt="Стрелка вправо для указателей.">
 
-Стрелка для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK).
+Стрелки для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK)
 
 ---
 
-[Разработано в Шишках](http://www.shishki.pro/).
+[Разработано в Шишках](http://www.shishki.pro/)
