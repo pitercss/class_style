@@ -7,11 +7,11 @@
 
 ## Логотип
 
-![](logo/open.png)
+<img src="logo/open.png" width="256" alt="Открывающий лого.">
 
 Открывающий: [SVG](logo/open.svg) или [PNG](logo/open.png) (1024 × 1024)
 
-![](logo/close.png)
+<img src="logo/close.png" width="256" alt="Закрывающий лого.">
 
 Закрывающий: [SVG](logo/close.svg) или [PNG](logo/close.png) (1024 × 1024)
 
@@ -19,17 +19,17 @@
 
 ## Страницы
 
-![](pages/vk-top.png)
+<img src="pages/vk-top.png" alt="Верхний баннер для Вконтакте.">
 
-Вконтакте, верхний: [vk-top.png](pages/vk-top.png)
+Верхний баннер для Вконтакте: [vk-top.png](pages/vk-top.png)
 
-![](pages/vk-right.png)
+<img src="pages/vk-right.png" width="256" alt="Правый баннер для Вконтакте.">
 
-Вконтакте, правый: [vk-right.png](pages/vk-right.png)
+Правый баннер для Вконтакте: [vk-right.png](pages/vk-right.png)
 
-![](pages/facebook.png)
+<img src="pages/facebook.png" alt="Баннер для Фейсбука.">
 
-Фейсбук: [facebook.png](pages/facebook.png)
+Баннер для Фейсбука: [facebook.png](pages/facebook.png)
 
 ## События
 
